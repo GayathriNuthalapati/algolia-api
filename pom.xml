@@ -18,8 +18,6 @@
 		
 		<anypoint.platform.client_id>0558cf2627bc402caf554b6fb3794bc5</anypoint.platform.client_id>
 		<anypoint.platform.client_secret>CF9F7b2eE82D4e29904e35D8255946f0</anypoint.platform.client_secret>
-
-
 	</properties>
 
 	<build>
