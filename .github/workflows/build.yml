@@ -36,17 +36,6 @@ jobs:
       with:
           name: artifacts
           path: target/*.jar
-  approval:
-      needs: build
-      runs-on: ubuntu-latest
-
-      steps:
-      - name: Request approval
-        uses: "GayathriNuthalapati/algolia-api/action-automatic-approvals@v1"
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          users: GayathriNuthalapati, Madhav547
-          approvers: 2
  
   deploydev:
     needs: build
