@@ -3,10 +3,10 @@ name: Deploy MuleSoft Application
 on:
   push:
     branches:
-      - postman-test-coverag
+      - postman-test-coverage
   pull_request:
     branches:
-      - postman-test-coverag
+      - postman-test-coverage
 
 
 jobs:
