@@ -36,8 +36,8 @@ jobs:
           path: target/*.jar
 
   postman_tests:
+    needs: build
     runs-on: ubuntu-latest
-
     steps:
       # Step 1: Check out the repository
       - name: Check out repository
