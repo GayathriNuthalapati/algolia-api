@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>c105df25-e89b-4946-9fdf-6a4c5107c350</groupId>
+	<groupId>21214478bb1142879320bf7d8c7edab1</groupId>
 	<artifactId>algolia-sys-api</artifactId>
 	<version>1.0.10</version>
 	<packaging>mule-application</packaging>
