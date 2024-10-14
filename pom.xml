@@ -44,7 +44,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<provider>MC</provider>
 						<environment>${env}</environment>
-						<target>Cloudhub-US-East-2</target>
+						<target>indy-space</target>
 						<muleVersion>4.4.0</muleVersion>
 						<server>anypoint-exchange-v3</server>
 						<applicationName>${appname}</applicationName>
